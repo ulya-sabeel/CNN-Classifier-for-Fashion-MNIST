@@ -1,5 +1,6 @@
 # Fashion MNIST Dataset Overview
 
+
 The fashion_mnist data: 60,000 train and 10,000 test gray-scale images with 10 categories. Each gray-scale image is 28x28 pixels.
 
 Label Description:
